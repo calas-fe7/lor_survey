@@ -38,9 +38,10 @@
 }
 
 .chatEmptyStateTitle {
+  color: purple;
   font-style: normal;
   font-weight: 700;
-  font-size: 36px;
+  font-size: 42px;
   display: flex;
   align-items: flex-end;
   text-align: center;
